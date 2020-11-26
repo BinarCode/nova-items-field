@@ -1,5 +1,5 @@
 <template>
-    <p class="pb-4">{{ item }}</p>
+    <p class="pb-4 whitespace-pre-line">{{ item }}</p>
 </template>
 
 <script>
